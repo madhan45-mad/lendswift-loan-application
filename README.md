@@ -8,8 +8,7 @@ A production-grade, 8-step multi-step loan application form built with **React 1
 
 ## 🚀 Live Demo
 
-> **[Click here to view the deployed app →](https://your-deploy-link.vercel.app)**  
-> *(Replace with your Vercel/Netlify URL after deploying)*
+> **[Click here to view the deployed app →](https://lendswift-loan-application-hgzp.vercel.app/)**
 
 ---
 
